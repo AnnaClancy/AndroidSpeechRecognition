@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Speech Recognition Demon</string>
+    <string name="action_settings">Settings</string>
+    <string name="editor">AnnaClancy</string>
+    <string name="wait_for_u">Waiting for input</string>
+
+    <string name="train">是呀，男人以为，让酒让烟是极普遍的事。可是只限于烟酒，他们不会肥马轻裘、与友共职。</string>
+    <string name="test">与此同时，欧美澳等国众多华侨应征入伍，开赴欧亚各战场，同德意日法西斯浴血奋战。</string>
+    <string name="farewell">他是你们的阳光，你们的露水，世上的风与雨，时间本身，一切的来龙去脉、因果逻辑。</string>
+
+    <string name="len_error">识别长与正确标注长不一。</string>
+    <string name="pri_ratio">错误率：%s</string>
+</resources>
