@@ -1,7 +1,7 @@
 # AndroidSpeechRecognition
 基于 TensorFlow Lite 开发的 Android 端语音识别 Demo。
 
-语言模型来源于：[ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition "基于深度学习的中文语音识别系统")
+语音模型来源于：[ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition "基于深度学习的中文语音识别系统")
 <br>
 使用的模型文件版本：[ASRT version 0.4.2 released](https://github.com/nl8590687/ASRT_SpeechRecognition/releases/tag/v0.4.2 "ASRT version 0.4.2 released")
 
